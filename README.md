@@ -30,6 +30,11 @@
   <img src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e47kwalb4jum8x8vuvk1yh2tc1tbzr7zp1ufxenrtm2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="50"/> 
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthi57&show_icons=true&locale=en&layout=compact" alt="karthi57" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthi57&show_icons=true&locale=en" alt="karthi57" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthi57&" alt="karthi57" /></p>
 
 
 
