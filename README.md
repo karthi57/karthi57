@@ -1,9 +1,16 @@
+
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Karthik</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthi57&label=Profile%20views&color=0e75b6&style=flat" alt="karthi57" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+
+- 👨‍💻 
 - 📫 How to reach me: karthikr0591@gmail.com
+- ⚡ Fun fact **I am funny😅**
+
 ---
 
 
@@ -12,10 +19,6 @@
 
 <p align="left">
 <a href="https://instagram.com/vibeswithkarthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vibeswithkarthik" height="30" width="40" /></a>
-</p>
-
-<p align="right">
-<img src="https://i.pinimg.com/originals/57/e3/53/57e353468c03daab4846f3c3418f436f.gif" width ="400"/>
 </p>
 
 
