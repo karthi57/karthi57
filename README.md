@@ -1,9 +1,12 @@
 
 ![logo]()
+
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthi57&label=Profile%20views&color=0e75b6&style=flat" alt="karthi57" /> </p>
 
 
 
@@ -37,7 +40,6 @@
   
   <img src="https://media2.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif?cid=ecf05e47kwalb4jum8x8vuvk1yh2tc1tbzr7zp1ufxenrtm2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width ="50"/> 
 </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthi57&show_icons=true&locale=en&layout=compact" alt="karthi57" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthi57&show_icons=true&locale=en" alt="karthi57" /></p>
