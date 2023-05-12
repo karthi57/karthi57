@@ -14,6 +14,11 @@
 <a href="https://instagram.com/vibeswithkarthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vibeswithkarthik" height="30" width="40" /></a>
 </p>
 
+<p align="left">
+<img src="https://i.pinimg.com/originals/57/e3/53/57e353468c03daab4846f3c3418f436f.gif" width ="50"/>
+</p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="start">
