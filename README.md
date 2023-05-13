@@ -1,13 +1,19 @@
 ![logo](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
 
-<h1 align="center"style="color: #44AEFB;"> Hi 👋, I'm KARTHIK</h1>
+<h1 align="center">Hi, <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="45" alt="✋"> I'm Karthik</h1>
+
+<h3 align="center"><a href="https://github.com/karthi57"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=435&lines=A+Passionate+Learner+from+India;Programmer+%7C+Developer+%7C+Designer+%7C" alt="Typing SVG" /></a></h3>
+
+
 <!--<h3 align="center">A passionate Software Engineer from India</h3> -->
 
-<img align="right" alt="coding" width="450" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
+<img align="right" alt="coding" width="430" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthi57&label=Profile%20views&color=0e75b6&style=flat" alt="karthi57" /> </p>
+<br>
 
 
+- 🔭 I’m currently working on **My Portfolio**
 
 - 👨‍💻 I’m currently learning *Javascript*
 
@@ -25,7 +31,7 @@
 
 
 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+ <!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   </a>
  
@@ -61,7 +67,15 @@
   </a>
   <br>
 </div>
+<br>-->
+
+<h3 align="left">Languages and Tools:</h3><br>
+<p align="left"><img align="center" src="https://skillicons.dev/icons?i=c,java,python,javascript,php,mysql,html,css,wordpress,bootstrap,powerpoint,canva">
+</p>
 <br>
+
+
+
 
 ----
 <br>
