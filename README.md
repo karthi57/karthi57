@@ -70,8 +70,9 @@
 <br>-->
 
 <h3 align="left">Languages and Tools:</h3><br>
-<p align="left"><img align="center" src="https://skillicons.dev/icons?i=c,java,python,javascript,php,mysql,html,css,wordpress,bootstrap,powerpoint,canva">
+<p align="left"><img align="center" src="https://skillicons.dev/icons?i=c,java,python,javascript,mysql,html,css,wordpress,bootstrap,github,visualstudioperline">
 </p>
+
 <br>
 
 
