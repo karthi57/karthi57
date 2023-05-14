@@ -5,8 +5,6 @@
 <h3 align="center"><a href="https://github.com/karthi57"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=435&lines=A+Passionate+Learner+from+India;Programmer+%7C+Developer+%7C+Designer+%7C" alt="Typing SVG" /></a></h3>
 
 
-<!--<h3 align="center">A passionate Software Engineer from India</h3> -->
-
 <img align="right" alt="coding" width="430" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthi57&label=Profile%20views&color=0e75b6&style=flat" alt="karthi57" /> </p>
@@ -83,13 +81,8 @@
 <div>
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 <div  align="left" style="margin:15px;">
-<img  width="600px" height="200px" style=";" src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif"/> 
-                                                                                                                                                   <!--<img align="right" alt="coding" width="280px" src="https://cdn.dribbble.com/users/107759/screenshots/3742849/media/539fcaccda77f2d9d7e557c4c2361c52.gif"> -->
+<img  width="600px" height="200px" style=";" src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif"/>                                 
 </div>
-
-
-
-
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
     
@@ -103,10 +96,10 @@
 <br>
 <div align="left" style="margin-top:50px;">
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthi57&show_icons=true&locale=en&layout=compact" alt="karthi57" /></p> 
-<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=karthi57&show_icons=true&locale=en" alt="karthi57" /></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthi57&theme=dark&show_icons=true&locale=en&layout=compact" alt="karthi57" /></p> 
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=karthi57&show_icons=true&locale=en&theme=dark" alt="karthi57" /></p>
 
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=karthi57&" alt="karthi57" /></p>
+<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=karthi57&theme=dark" alt="karthi57" /></p>
  
 
   
