@@ -96,10 +96,10 @@
 <br>
 <div align="left" style="margin-top:50px;">
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthi57&theme=dark&show_icons=true&locale=en&layout=compact" alt="karthi57" /></p> 
-<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=karthi57&show_icons=true&locale=en&theme=dark" alt="karthi57" /></p>
+<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthi57&show_icons=true&locale=en&layout=compact" alt="karthi57" /></p> 
+<p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=karthi57&show_icons=true&locale=en&" alt="karthi57" /></p>
 
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=karthi57&theme=dark" alt="karthi57" /></p>
+<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=karthi57&theme=" alt="karthi57" /></p>
  
 
   
