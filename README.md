@@ -11,9 +11,9 @@
 <br>
 
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **My Portfolio*
 
-- 👨‍💻 I’m currently learning *Javascript*
+<!--- 👨‍💻 I’m currently learning *Javascript* -->
 
 - 📫 How to reach me: *karthikr0591@gmail.com*
 
