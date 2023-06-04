@@ -5,14 +5,16 @@
 <h3 align="center"><a href="https://github.com/karthi57"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=435&lines=A+Passionate+Learner+from+India;Programmer+%7C+Developer+%7C+Designer+%7C" alt="Typing SVG" /></a></h3>
 
 
-<img align="right" alt="coding" width="430" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthi57&label=Profile%20views&color=0e75b6&style=flat" alt="karthi57" /> </p>
 <br>
 
-- 💻 At the moment I aim to upgrade my technical skills and develop web development projects.
+- 💻 At the moment I aim to upgrade my technical skills and
+          develop web  projects.
  
-- ✨ Interested in exploring the possibilities of **Front-End Web Development Technologies**
+- ✨ Interested in exploring the possibilities of 
+            **Front-End Web Development Technologies**
 
 - 📫 How to reach me: *karthikr0591@gmail.com*
 
