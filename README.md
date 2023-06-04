@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="45" alt="✋"> I'm Karthik</h1>
 
-<h3 align="center"><a href="https://github.com/karthi57"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=435&lines=A+Passionate+Learner+from+India;Programmer+%7C+Developer+%7C+Designer+%7C" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://github.com/karthi57"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=435&lines=A+Passionate+Learner+from+India;Programmer+%7C+Developer+%7C+Designer" alt="Typing SVG" /></a></h3>
 
 
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
@@ -13,12 +13,11 @@
 - 💻 At the moment I aim to upgrade my technical skills and
           develop web  projects.
  
-- ✨ Interested in exploring the possibilities of 
-            **Front-End Web Development Technologies**
+- ✨ Specializing in front-end development. 
+
+- ⚡  focused on crafting visually stunning and user-friendly websites
 
 - 📫 How to reach me: *karthikr0591@gmail.com*
-
-- ⚡ Fun fact I am funny😅
 
 
 
