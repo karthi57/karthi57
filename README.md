@@ -10,10 +10,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthi57&label=Profile%20views&color=0e75b6&style=flat" alt="karthi57" /> </p>
 <br>
 
-
-- 🔭 I’m currently working on *My Portfolio*
-
-<!--- 👨‍💻 I’m currently learning *Javascript* -->
+- 💻 At the moment I aim to upgrade my technical skills and develop web development projects.
+ 
+- ✨ Interested in exploring the possibilities of **Front-End Web Development Technologies**
 
 - 📫 How to reach me: *karthikr0591@gmail.com*
 
