@@ -78,7 +78,7 @@
 <br>-->
 
 <h3 align="left">Languages and Tools:</h3><br>
-<p align="left"><img align="center" src="https://skillicons.dev/icons?i=c,java,python,javascript,mysql,html,css,bootstrap,github,vscode,git">
+<p align="left"><img align="center" src="https://skillicons.dev/icons?i=c,java,python,javascript,mysql,html,css,bootstrap,github,vscode,git,figma">
 </p>
 
 <br>
