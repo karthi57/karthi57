@@ -117,6 +117,11 @@
 </div>
 
 -----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <!--<p align="left">
 <a href="https://instagram.com/vibeswithkarthik" target="blank"><img align="center" src="https://www.svgrepo.com/show/474324/instagram.svg" alt="vibeswithkarthik" height="50" width="40" />vibeswithkarthik</a>
