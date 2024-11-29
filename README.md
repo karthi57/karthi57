@@ -17,7 +17,7 @@
 # 💫 About Me:
 <div>
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif">
-✨ Specializing in front-end development.<br><br>☘️ I'm Currently learning react, tailwind.<br><br>⚡ focused on crafting visually stunning and user-friendly websites
+✨ Specializing in web-development.<br><br>☘️ I'm Currently learning react, typescript, tailwind.<br><br>⚡ focused on crafting  stunning and user-friendly websites
  </div>
  
 <br/>
